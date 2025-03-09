@@ -1,0 +1,23 @@
+{
+  "name": "sky-rocket",
+  "displayName": "sky-rocket",
+  "publisher": "Prince Chhirolya - Founder & CEO of Chhirolya Technologies",
+  "description": "Sky-Rocket: A high-performance theme designed to supercharge your coding experience. With seamless visuals and productivity in mind, this theme helps developers code smarter, faster, and with unmatched focus. Let your workspace inspire greatness!",
+  "icon": "icon.png",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.98.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Sky Rocket Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Sky-rocket-dark-color-theme.json"
+      }
+    ]
+  }
+}
