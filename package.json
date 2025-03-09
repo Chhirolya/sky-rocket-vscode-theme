@@ -4,6 +4,23 @@
   "publisher": "Prince Chhirolya - Founder & CEO of Chhirolya Technologies",
   "description": "Sky-Rocket: A high-performance theme designed to supercharge your coding experience. With seamless visuals and productivity in mind, this theme helps developers code smarter, faster, and with unmatched focus. Let your workspace inspire greatness!",
   "icon": "icon.png",
+  "license": "MIT License",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Chhirolya/sky-rocket-vscode-theme"
+  },
+  "keywords": [
+    "Theme",
+    "Dark Theme",
+    "Night Theme",
+    "Sky Rocket",
+    "Early Bird",
+    "Accessible Theme",
+    "Prince Chhirolya",
+    "Chhirolya Technologies",
+    "Chhirolya",
+    "Sky Rocket Dark Theme"
+  ],
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.98.0"
