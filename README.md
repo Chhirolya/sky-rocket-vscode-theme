@@ -1,12 +1,16 @@
 <div align="center">
-
-
+<p>Sky Rocket - CT Dev Hub powwered by Chhirolya Technologies</p>
+<img src="SkyRocket.gif" alt="Sky Rocket - CT Dev Hub">
 
 </div>
 
-# 🚀 Sky-Rocket Theme
+---
+
+# Sky Rocket Dark Theme for VS Code Editors🚀
 
 Sky-Rocket: A high-performance theme designed to supercharge your coding experience. With seamless visuals and productivity in mind, this theme helps developers code smarter, faster, and with unmatched focus. Let your workspace inspire greatness! 🌌
+
+- Visual Studio Code Editor Theme --> [Install](https://marketplace.visualstudio.com/items?itemName=SkyRocket.sky-rocket)
 
 ## 🌟 Installation
 
