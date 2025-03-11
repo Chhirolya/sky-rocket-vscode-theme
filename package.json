@@ -1,10 +1,10 @@
 {
   "name": "sky-rocket",
   "displayName": "sky-rocket",
-  "publisher": "Prince Chhirolya - Founder & CEO of Chhirolya Technologies",
   "description": "Sky-Rocket: A high-performance theme designed to supercharge your coding experience. With seamless visuals and productivity in mind, this theme helps developers code smarter, faster, and with unmatched focus. Let your workspace inspire greatness!",
   "icon": "icon.png",
   "license": "MIT License",
+  "publisher": "SkyRocket",
   "repository": {
     "type": "git",
     "url": "https://github.com/Chhirolya/sky-rocket-vscode-theme"
